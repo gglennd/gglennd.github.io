@@ -1,0 +1,35 @@
+{
+  "name": "vite-react-spa",
+  "type": "module",
+  "private": true,
+  "packageManager": "pnpm@10.33.2",
+  "author": "gglennd",
+  "license": "MIT",
+  "engines": {
+    "node": "24.x"
+  },
+  "scripts": {
+    "dev": "vite",
+    "build": "vite build",
+    "lint": "eslint .",
+    "preview": "vite preview"
+  },
+  "dependencies": {
+    "react": "^19.2.7",
+    "react-dom": "^19.2.7"
+  },
+  "devDependencies": {
+    "@antfu/eslint-config": "^9.0.0",
+    "@eslint-react/eslint-plugin": "^5.6.0",
+    "@tailwindcss/vite": "^4.3.0",
+    "@types/react": "^19.2.16",
+    "@types/react-dom": "^19.2.3",
+    "@vitejs/plugin-react": "^6.0.2",
+    "eslint": "^10.3.0",
+    "eslint-plugin-format": "^2.0.1",
+    "eslint-plugin-react-refresh": "^0.5.2",
+    "tailwindcss": "^4.3.0",
+    "typescript": "^6.0.3",
+    "vite": "^8.0.16"
+  }
+}
