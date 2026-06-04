@@ -7,8 +7,11 @@ A modern React single-page application built with Vite, TypeScript, and Tailwind
 - **Framework:** React 19
 - **Build tool:** Vite 8
 - **Language:** TypeScript 6 (strict mode)
-- **Styling:** Tailwind CSS 4
+- **Styling:** Tailwind CSS 4 + shadcn/ui
 - **Linting:** ESLint 10 with @antfu config
+- **UI primitives:** Radix UI
+- **Icons:** Remixicon
+- **Typography:** Inter Variable
 
 ## Scripts
 
